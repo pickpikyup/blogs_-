@@ -1,5 +1,5 @@
 # Byte-compiled / optimized / DLL files
-__pycache__/
+notbook/__pycache__/
 *.py[cod]
 *$py.class
 
@@ -127,3 +127,14 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# vs code
+.vscode/
+
+# data 
+new_data/
+
+# notebook
+notebook/preprocessing.py
+notebook/sentiment.py
+notebook/update.ipynb
